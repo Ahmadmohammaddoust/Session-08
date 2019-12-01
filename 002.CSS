@@ -1,0 +1,115 @@
+body{
+
+    background: gray;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box1{
+    
+    width: 600px;
+    height: 920px;
+    background: white;
+    margin-left: 350px;
+    margin-top: 0;
+    padding: 5px;
+}
+.box-1{
+    width: 485px;
+    height: 175px;
+    background:crimson;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 55px;
+     
+}
+
+.box-01{
+    width: 485px;
+    height: 30px;
+    display: block;
+    background:crimson;
+    margin-top: 0px;
+    margin-left: 55px;
+    font-size: 25px;
+   
+}
+.box-2{
+    width: 150 px;
+    height: 175px;
+    display: block;
+    background: url(./sm_nyc_banner.jpg) no-repeat;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.box-02{
+    width: 485px;
+    height: 30px;
+    display: block;
+    background:rgb(90, 90, 90);
+    margin-top: 0px;
+    margin-left: 55px;
+    font-size: 25px;
+      
+}
+.box-3{
+    width: 150 px;
+    height: 175px;
+    display: block;
+    background: url(./sm_nyc_banner.jpg) no-repeat;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.box-03{
+
+    background: url(./featured.png) no-repeat;
+    width: 485px;
+    height: 80px;
+    display: block;
+    margin-top: -160px;
+    margin-left: 55px; 
+}
+.box-04{
+    width: 485px;
+    height: 30px;
+    display: block;
+    background:rgb(90, 90, 90);
+    margin-top: 80px;
+    margin-left: 55px;
+    font-size: 25px;   
+}
+.box-4{
+    width: 150 px;
+    height: 175px;
+    display: block;
+    background: url(./sm_nyc_banner.jpg) no-repeat;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+.box-05{
+
+    background: url(./featured.png) no-repeat;
+    width: 485px;
+    height: 80px;
+    display: block;
+    margin-top: -160px;
+    margin-left: 55px; 
+}
+.box-06{
+
+    background: url(./new.png) no-repeat;
+    width: 485px;
+    height: 100px;
+    display: block;
+    margin-top:-95px;
+    margin-left:445px; 
+}
+.box-07{
+    width: 485px;
+    height: 30px;
+    display: block;
+    background:rgb(90, 90, 90);
+    margin-top: 70px;
+    margin-left: 55px;
+    font-size: 25px;   
+}
